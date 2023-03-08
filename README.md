@@ -18,8 +18,14 @@ Software requirements
 • IDE for JAVA : Eclipse IDE 2022-09
 • Build Tool : Apache Maven
 
+I developed this website using jsp, servlets, Microsoft SQL Server, Tomcat server 
+and CSS for styling the website. The most commonly used language to develop dynamic 
+websites are JavaScript, HTML, PHP etc. instead of this, I choose java as a Programming 
+language for the reason that I wanted to explore more features of java programming.
+
 
 **SCREENSHOTS OF THE WEBSITE**
+
 
 ![image](https://user-images.githubusercontent.com/111446466/223692040-45fd6f74-129c-41e3-bd89-941014fb54f1.png)
 
